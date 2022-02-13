@@ -14,5 +14,5 @@ Implentar aí para envio de email no botão
 ## icones
 - :package: nova funcionalidade
 - :up: atualização
-- :bettle: correção de bug
+- :beetle: correção de bug
 - :checkered_flag: realease
